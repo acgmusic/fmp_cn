@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 这里是fmp的中文翻译
 
-You can use the [editor on GitHub](https://github.com/acgmusic/fmp_cn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这个专栏的主要任务是部分翻译并解读Meinard Müller的FMP这本书的内容。书的全称是《Fundamentals of Music Processing —— Using Python and Jupyter Notebooks, 2nd Edition》
 
-### Markdown
+这本书最近出了第二版，加入了很多python编程的内容。由于书的正文里并没有太多代码的讲解，所以我会贴一些作者给的代码，当然也只是挑一些重点的代码。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这本书是关于音乐处理和音乐信息检索（MIR）新兴领域的教科书，重点是音频信号处理。里面会有一些比较理论的内容，涉及到一些数学推导，包括微积分，概率论等。由于这本书更偏向音乐工程，所以在理论学完后还是需要实际做些项目操练一下，好在第二版作者给了很多python代码给我们参考，这就节省了很多自己摸索的时间。如果没有乐理基础的话也不适合直接阅读这本书，虽然前面有一些乐理介绍，但是并不全面，而且我不打算翻译这部分内容。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acgmusic/fmp_cn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+水平有限，仅供参考。很多音乐术语翻译不准确，还请指正。
