@@ -19,31 +19,15 @@
 
 声音是由振动的物体所产生的，比如歌手的声带、小提琴的弦和音板、鼓的振膜和音叉的尖头等等。这些振动引起空气分子的位移和振荡，导致局部区域的空气被压缩和稀释。交变压力以波的形式在空气中传播，从它的来源传到听者或麦克风。当声音传播到目的地，人类听到后便能被感知到，或通过麦克风将其转换为电信号(见[图1.17](#fig1.17))。对于人类听者来说，耳朵的外部捕捉声波并将其传递到鼓膜，然后鼓膜根据空气的压力振荡进行相应的振动。在经过中耳和内耳的进一步处理之后，声波被转换成神经脉冲，这些神经脉冲最终被发送到大脑并被大脑解释。从图形上看，某个位置的气压变化可以用 **压力-时间图(pressure–time plot)** 表示，也称为声音的 **波形(waveform)** 。波形显示空气压力与平均空气压力的偏差。[图1.18](#fig1.18)显示了贝多芬第五交响曲录音的波形。
 
-<center>
-    <img id="fig1.17" style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://raw.githubusercontent.com/acgmusic/FigureBedForFmp/master/img/20211228201825.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-    图1.17 振动的音叉致使周围空气粒子来回振动。压力振荡以纵波形式在空气中传播。波形显示了特定位置(如麦克风所示)的平均空气压力随时间的偏差
-    </div>
-</center>
+<span id="fig1.17"></span>
+| ![](https://raw.githubusercontent.com/acgmusic/FigureBedForFmp/master/img/20211228201825.png) | 
+|:--:| 
+| *图1.17 振动的音叉致使周围空气粒子来回振动。压力振荡以纵波形式在空气中传播。波形显示了特定位置(如麦克风所示)的平均空气压力随时间的偏差* |
 
-<center>
-    <img id="fig1.18" style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://raw.githubusercontent.com/acgmusic/FigureBedForFmp/master/img/20211228214042.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-    图1.18(a)贝多芬第五交响曲前五小节录音的前八秒波形(b)波形在7.3-7.8秒之间放大截面
-    </div>
-</center>
+<span id="fig1.18"></span>
+| ![](https://raw.githubusercontent.com/acgmusic/FigureBedForFmp/master/img/20211228214042.png) | 
+|:--:| 
+| *图1.18(a)贝多芬第五交响曲前五小节录音的前八秒波形(b)波形在7.3-7.8秒之间放大截面* |
 
 一般来说，一个机械波可以描述为在空间中传播的一种振荡，能量从一点传递到另一点。当波通过某种介质时，构成这种介质的物质会暂时发生形变。如上所述，声波通过空气分子与其邻近的分子碰撞来传播。空气分子碰撞后，它们相互反弹(一种回复力)。这可以防止分子继续沿着波的方向运动。事实上，它们在几乎固定的位置上振荡。一般波可以是横向的，也可以是纵向的，这取决于它的振荡方向。当扰动产生与传播(能量传递方向)垂直(成直角)地振荡时，就会产生横波。当振荡与传播方向平行时，会出现纵向波。根据这个定义，弦中的振动是横波的一种情况，而声波的形式是纵波。横波实际上可以产生纵波，反之亦然。乐器的弦在两个固定端点之间振荡时(横波)，会逐渐向空中发射能量，从而产生纵向的声波。如果该声波撞击了人耳的鼓膜，则会反过来再次产生横波。
 
@@ -153,18 +137,10 @@ $$
 
 当以分贝为单位规定声强时，我们也会提到 **声强级(intensity levels)** 。表1.1显示了一些典型声音的声强，单位为 $W/m^{2}$ 和对应的分贝数。例如，演奏 **轻低音(pianissimo)** 的音符通常会产生约40dB的强度级别，而演奏 **重低音(fortissimo)** 的音符可以达到高达100dB的级别。
 
-<center>
-    <img id="" style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://raw.githubusercontent.com/acgmusic/FigureBedForFmp/master/img/20211228231812.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-    表1.1 以W/m^2(声强)、分贝(声强级)以及与TOH相比的系数给出的典型声强值。
-    </div>
-</center>
+<span id="fig1.17"></span>
+| ![](https://raw.githubusercontent.com/acgmusic/FigureBedForFmp/master/img/20211228231812.png) | 
+|:--:| 
+| *表1.1 以$W/m^2$(声强)、分贝(声强级)以及与TOH相比的系数给出的典型声强值。* |
 
 现在我们回到 **响度(loudness)** 这一概念。如前所述，响度受到许多因素的影响。首先，根据个人的不同，同一个声音可能被认为具有不同的响度。比如，年龄就是影响人耳对声音反应的一个因素。此外，声音的持续时间会影响感知，因为人类听觉系统会在长达一秒的时间间隔内平均化声音强度的影响。因此，人类感觉持续200ms的声音比仅持续50ms的类似声音更响亮。此外，两个强度相同但频率不同的声音通常不会被认为具有相同的响度。听力正常的人对2000~4000Hz左右的声音最敏感，对低频和高频的敏感度都会下降。基于心理声学实验，纯音的感知响度取决于频率，并用单位phon表示。[图1.21](#fig1.21)显示了 **等响度曲线(equal loudness contours)** 。每条等高线都固定了响度(响度作为外生变量)，以phon为单位，在(对数间隔的)频率轴上指定声音强度(单位dB)。phon的单位相对于1000Hz的频率进行标准化，其中phon值等于以dB为单位的强度水平。0 phon的轮廓显示了听力阈值如何取决于频率。
 
