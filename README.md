@@ -9,4 +9,4 @@
 
 水平有限，仅供参考。很多音乐术语翻译不准确，还请指正。
 
-![第一章：音乐的表现形式](https://acgmusic.github.io/fmp_cn/chapter01%E9%9F%B3%E4%B9%90%E7%9A%84%E8%A1%A8%E7%8E%B0%E5%BD%A2%E5%BC%8F.html)
+[第一章：音乐的表现形式](https://acgmusic.github.io/fmp_cn/chapter01%E9%9F%B3%E4%B9%90%E7%9A%84%E8%A1%A8%E7%8E%B0%E5%BD%A2%E5%BC%8F.html)
